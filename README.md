@@ -2,6 +2,7 @@
 
 ```
 brew tap doctiling/tap
+brew trust doctiling/tap        # Homebrew requires trusting third-party taps
 brew install doctiling
 brew services start doctiling   # start at login
 ```
