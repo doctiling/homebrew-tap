@@ -6,9 +6,9 @@
 class Doctiling < Formula
   desc "Editorial studio for documents and the AI agents that read them — self-hosted"
   homepage "https://doctiling.app"
-  url "https://github.com/doctiling/releases/releases/download/v0.50.1/doctiling-standalone.tar.gz"
-  sha256 "335d30b1270d2d2145aa0125fa8e94c510a1742d6bcd2be22804686750683072"
-  version "0.50.1"
+  url "https://github.com/doctiling/releases/releases/download/v0.50.2/doctiling-standalone.tar.gz"
+  sha256 "a8efabd7af74de2b759ea66cb50e928a24805e5803dd467afbc06faeae639572"
+  version "0.50.2"
   license "UNLICENSED"
 
   depends_on "node@20"
